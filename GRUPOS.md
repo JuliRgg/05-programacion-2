@@ -244,6 +244,8 @@ MASSA Laureano - 37101 - Laureano-GitHub
 
 ### TUP13 - Grupo 8
 
+Proyecto: Taller Mecanico
+
 Integrantes:
 
 MARTINEZ Maximiliano Nahuel - 36732 - mnahuelmartinez
