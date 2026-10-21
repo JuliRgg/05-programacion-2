@@ -24,7 +24,7 @@ El proyecto 1 lo desarrolla la cátedra en paralelo, a lo largo de la cursada, c
 | --- | --- | --- |
 | 1 | Biblioteca barrial | **PROYECTO GUÍA DE LA CÁTEDRA (no se elige)** |
 | 2 | Turnos de consultorio |  |
-| 3 | Gimnasio | TUP11 - Grupo 1 |
+| 3 | Gimnasio | TUP11 - Grupo 1 - TUP13 - Grupo 7|
 | 4 | Veterinaria |  |
 | 5 | Alquiler de canchas | Tup11 - Grupo 3 |
 | 5 | Alquiler de canchas | TUP13 - Grupo 4 |
