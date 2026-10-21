@@ -31,7 +31,7 @@ El proyecto 1 lo desarrolla la cátedra en paralelo, a lo largo de la cursada, c
 | 6 | Alquiler de herramientas |  |
 | 7 | Escuela de idiomas |  |
 | 8 | Taller mecánico |  |
-| 9 | Peluquería |  |
+| 9 | Peluquería | TUP11 - Grupo 5 |
 | 10 | Club deportivo (cuotas) |  |
 | 11 | Hostel | TUP13 - Grupo 06 |
 | 12 | Tienda de ropa |  |
