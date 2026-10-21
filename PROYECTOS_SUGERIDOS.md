@@ -33,7 +33,7 @@ El proyecto 1 lo desarrolla la cátedra en paralelo, a lo largo de la cursada, c
 | 8 | Taller mecánico |  |
 | 9 | Peluquería |  |
 | 10 | Club deportivo (cuotas) |  |
-| 11 | Hostel |  |
+| 11 | Hostel | TUP13 - Grupo 06 |
 | 12 | Tienda de ropa |  |
 | 13 | Cine |  |
 | 14 | Eventos y entradas |  |

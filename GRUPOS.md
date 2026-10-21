@@ -241,6 +241,8 @@ ZOPPOLI Luciano - 37105 - luchozoppo
 
 ### TUP13 - Grupo 6
 
+Proyecto: Hostel
+
 Integrantes:
 
 PANIN SUAREZ Julian - 36595 - julipaninsuarez-sys
