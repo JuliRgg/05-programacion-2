@@ -39,7 +39,7 @@ El proyecto 1 lo desarrolla la cátedra en paralelo, a lo largo de la cursada, c
 | 14 | Eventos y entradas |  |
 | 15 | Stock de farmacia |  |
 | 16 | Consorcio |  |
-| 17 | Pedidos de un restaurante |  |
+| 17 | Pedidos de un restaurante | TUP13 - Grupo 2 |
 | 18 | Préstamo de equipos del laboratorio |  |
 | 19 | Torneo de fútbol |  |
 | 20 | Mesa de ayuda |  |
