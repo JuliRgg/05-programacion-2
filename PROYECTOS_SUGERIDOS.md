@@ -42,7 +42,7 @@ El proyecto 1 lo desarrolla la cátedra en paralelo, a lo largo de la cursada, c
 | 17 | Pedidos de un restaurante | TUP13 - Grupo 2 |
 | 18 | Préstamo de equipos del laboratorio |  |
 | 19 | Torneo de fútbol |  |
-| 20 | Mesa de ayuda |  |
+| 20 | Mesa de ayuda | TUP11 - Grupo 2 |
 
 ---
 
